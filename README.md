@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @sowhatsansuu
+- 👀 I’m interested in computer science and data structures ...
+- 🌱 I’m currently high school passout ...
+- 📫 How to reach me @sowhatsansuu and @sansuutoo on twitter.com ...
+
+<!---
+sowhatsansuu/sowhatsansuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
